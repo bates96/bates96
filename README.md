@@ -1,33 +1,33 @@
-# ¡Hola! Soy Nalleli Bates 👋
+# ¡Hola! Soy Nalleli Bates <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4FLWq/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4FLWq/giphy.gif)" width="35">
 
-### Data Engineer | Estudiante de Ciencia de Datos e IA | Ex-Cabo de Transmisiones
+```diff
++ ### Data Engineer | Estudiante de Ingeniería de Datos | Ex-Cabo de Transmisiones
++ 
++ Soy una profesional apasionada por el diseño y la implementación de pipelines ETL, la contenerización de aplicaciones y el desarrollo de arquitecturas de datos escalables. Tras siete años de experiencia técnica en telecomunicaciones y transmisiones en el ejército, pivoté hacia el sector tecnológico con una disciplina y capacidad de resolución de problemas inquebrantables.
++ 
++ Actualmente curso el quinto semestre de Ingeniería en Ciencia de Datos e Inteligencia Artificial en la UPY. Mi perfil técnico se centra en la ingeniería de datos, el backend y el despliegue de infraestructura contenerizada.
++ 
++ > Próximos pasos: Este verano estaré participando en una inmersión STEM en la University of Regina (Canadá). Estoy en búsqueda activa de prácticas profesionales (remotas o presenciales) para iniciar en septiembre de 2026, donde pueda aportar mi rigor técnico y construir soluciones sólidas basadas en datos.
+```
 
-Soy una profesional apasionada por el diseño y la implementación de pipelines ETL, la contenerización de aplicaciones y el desarrollo de arquitecturas de datos escalables. Tras siete años de experiencia técnica en telecomunicaciones y transmisiones en el ejército, pivoté hacia el sector tecnológico con una disciplina y capacidad de resolución de problemas inquebrantables.
+### 🛠️ Habilidades (Skills)
 
-Actualmente curso el quinto semestre de Ingeniería en Ciencia de Datos e Inteligencia Artificial en la UPY. Mi perfil técnico se centra en la ingeniería de datos, el backend y el despliegue de infraestructura contenerizada.
+```diff
++ [ Hard Skills (Técnicas) ]
++ * Lenguajes: Python, SQL, Bash.
++ * Ingeniería de Datos: Diseño de pipelines ETL, procesamiento de eventos (Apache Kafka).
++ * Bases de Datos: PostgreSQL, MySQL, InfluxDB (Time-Series).
++ * Backend: Desarrollo de APIs REST con FastAPI.
++ * DevOps & Infraestructura: Contenerización (Docker, Docker Compose), entornos Linux.
++ 
++ [ Soft Skills (Interpersonales y de Gestión) ]
++ * Disciplina y Adaptabilidad: Capacidad probada para operar y entregar resultados bajo presión.
++ * Resolución Crítica de Problemas: Enfoque analítico para el troubleshooting de sistemas e infraestructura.
++ * Trabajo en Equipo y Liderazgo: Experiencia colaborando en estructuras jerárquicas y operativas complejas.
++ * Aprendizaje Continuo: Proactividad para asimilar nuevas tecnologías y frameworks rápidamente.
+```
 
-> **Próximos pasos:** Este verano estaré participando en una inmersión STEM en la **University of Regina (Canadá)**. Estoy en búsqueda activa de **prácticas profesionales** (remotas o presenciales) para iniciar en **septiembre de 2026**, donde pueda aportar mi rigor técnico y construir soluciones sólidas basadas en datos.
-
----
-
-###  Habilidades (Skills)
-
-**Hard Skills (Técnicas):**
-* **Lenguajes:** Python, SQL, Bash.
-* **Ingeniería de Datos:** Diseño de pipelines ETL, procesamiento de eventos (Apache Kafka).
-* **Bases de Datos:** PostgreSQL, MySQL, InfluxDB (Time-Series).
-* **Backend:** Desarrollo de APIs REST con FastAPI.
-* **DevOps & Infraestructura:** Contenerización (Docker, Docker Compose), entornos Linux.
-
-**Soft Skills (Interpersonales y de Gestión):**
-* **Disciplina y Adaptabilidad:** Capacidad probada para operar y entregar resultados bajo presión y en entornos de alta exigencia.
-* **Resolución Crítica de Problemas:** Enfoque analítico para el *troubleshooting* de sistemas e infraestructura.
-* **Trabajo en Equipo y Liderazgo:** Experiencia colaborando en estructuras jerárquicas y operativas complejas, asegurando la comunicación efectiva del equipo.
-* **Aprendizaje Continuo:** Proactividad para asimilar nuevas tecnologías y frameworks rápidamente.
-
----
-
-###  Tecnologías y Herramientas
+### ⚙️ Tecnologías y Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,18 +38,19 @@ Actualmente curso el quinto semestre de Ingeniería en Ciencia de Datos e Inteli
 
 ---
 
-###  Proyectos Destacados
+### 🚀 Proyectos Destacados
 
-* **Monitoreo de Tráfico Urbano en Tiempo Real:** Arquitectura de datos construida con Apache Kafka para la ingesta de datos, almacenados en InfluxDB y visualizados mediante dashboards interactivos con Plotly Dash.
-* **API de Monitoreo para Data Centers:** Simulación de infraestructura backend desarrollada con FastAPI y Uvicorn, completamente contenerizada con Docker y Docker Compose para asegurar su escalabilidad y fácil replicación.
+```diff
++ * Monitoreo de Tráfico Urbano en Tiempo Real: Arquitectura de datos construida con Apache Kafka para la ingesta de datos, almacenados en InfluxDB y visualizados mediante dashboards interactivos con Plotly Dash.
++ 
++ * API de Monitoreo para Data Centers: Simulación de infraestructura backend desarrollada con FastAPI y Uvicorn, completamente contenerizada con Docker y Docker Compose para asegurar su escalabilidad y fácil replicación.
+```
 
----
-
-###  Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bates96&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bates96&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=bates96&show_icons=true&theme=radium&hide_border=true](https://github-readme-stats.vercel.app/api?username=bates96&show_icons=true&theme=radium&hide_border=true)" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bates96&layout=compact&theme=radium&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=bates96&layout=compact&theme=radium&hide_border=true)" alt="Top Languages" />
 </div>
 
 ---
