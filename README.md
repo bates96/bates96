@@ -46,15 +46,6 @@
 + * API de Monitoreo para Data Centers: Simulación de infraestructura backend desarrollada con FastAPI y Uvicorn, completamente contenerizada con Docker y Docker Compose para asegurar su escalabilidad y fácil replicación.
 ```
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=bates96&show_icons=true&theme=radium&hide_border=true](https://github-readme-stats.vercel.app/api?username=bates96&show_icons=true&theme=radium&hide_border=true)" alt="GitHub Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bates96&layout=compact&theme=radium&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=bates96&layout=compact&theme=radium&hide_border=true)" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
